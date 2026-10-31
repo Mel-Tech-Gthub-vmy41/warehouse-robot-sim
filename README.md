@@ -6,7 +6,7 @@ modeled after fulfillment center robotics systems.
 Two robots navigate a 10×10 warehouse floor simultaneously, finding 
 shortest paths with BFS and avoiding collisions in real time.
 
-![Demo](demo.gif)
+![Demo](https://raw.githubusercontent.com/Mel-Tech-Gthub-vmy41/warehouse-robot-sim/main/demo.gif) 
 
 ## Features
 
