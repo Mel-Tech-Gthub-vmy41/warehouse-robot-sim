@@ -1,0 +1,4 @@
+warehouse
+*.o
+__pycache__/
+*.pyc
